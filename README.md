@@ -1,11 +1,15 @@
-## Olá, eu sou a Letícia Cardoso!
-
 ![Olá devs, eu sou Cardles, mais conhecida como Letícia Cardoso](https://github.com/cardles/cardles/blob/main/profile_animation.gif)
+
+<br>
+
+<h3> 👩🏽‍🚀 desenvolvedora back-end </h3>
+
+##
 
 <div align="left">
   <a href="https://github.com/cardles">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cardles&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardles&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=cardles&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardles&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 
