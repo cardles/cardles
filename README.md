@@ -1,8 +1,12 @@
 ![Olá devs, eu sou Cardles, mais conhecida como Letícia Cardoso](https://github.com/cardles/cardles/blob/main/profile_animation.gif)
 
-<br>
 
-<h3> 👩🏽‍🚀 desenvolvedora back-end </h3>
+<h2> Um pouco sobre mim </h2>
+
+<h4> Letícia Cardoso - desenvolvedora back-end </h4>
+
+> Sou uma mulher parda vindo de Guarulhos para dar meu “Hello World!” para o universo tech!  
+Graduada em Arquitetura e Urbanismo, agora busco construir uma carreira nesse universo, desejando a chance de aprimorar minhas habilidades e desempenho, me mantendo orientada à resultados e integrada à comunidade. 
 
 ##
 
