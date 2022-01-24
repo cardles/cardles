@@ -14,7 +14,7 @@ jobs:
 
           # Core
           user: cardles
-          config_timezone: America/Brazil
+          config_timezone: Asia/Calcutta
           committer_message: "chore: update metrics"
           
           # Display
