@@ -1,12 +1,27 @@
-## Olá, eu sou a Letícia Cardoso!
+![Olá devs, eu sou Cardles, mais conhecida como Letícia Cardoso](https://github.com/cardles/cardles/blob/main/profile_animation.gif)
+
+<div align="center"> 
+  <a href = "mailto:cardles.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cardles-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
+<h3> Letícia Cardoso - desenvolvedora back-end </h3>
+
+> Sou uma mulher parda vindo de Guarulhos para dar meu “Hello World!” para o universo tech!  
+Graduada em Arquitetura e Urbanismo, agora busco construir uma carreira nesse universo, desejando a chance de aprimorar minhas habilidades e desempenho, me mantendo orientada à resultados e integrada à comunidade. 
+<br>
+
 
 <div align="left">
   <a href="https://github.com/cardles">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cardles&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardles&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=cardles&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardles&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+<br>
   
-
+ 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
@@ -18,13 +33,7 @@
   <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
+<br>  
   
-##
   
-<div> 
-  <a href = "mailto:cardles.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cardles-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/cardles/cardles/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+![Snake animation](https://github.com/cardles/cardles/blob/output/github-contribution-grid-snake.svg) 
