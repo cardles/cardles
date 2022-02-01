@@ -6,13 +6,14 @@
 </div>
 
 
-<h3> Letícia Cardoso - desenvolvedora back-end </h3>
+<h2>_sobre mim</h2>
 
 > Sou uma mulher parda vindo de Guarulhos para dar meu “Hello World!” para o universo tech!  
 Graduada em Arquitetura e Urbanismo, agora busco construir uma carreira nesse universo, desejando a chance de aprimorar minhas habilidades e desempenho, me mantendo orientada à resultados e integrada à comunidade. 
 <br>
 
 
+<h2>_estatísticas</h2>
 <div align="left">
   <a href="https://github.com/cardles">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=cardles&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -20,8 +21,8 @@ Graduada em Arquitetura e Urbanismo, agora busco construir uma carreira nesse un
 </div>
 <br>
   
- 
-  
+
+<h2>_proficiências</h2> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
@@ -35,5 +36,5 @@ Graduada em Arquitetura e Urbanismo, agora busco construir uma carreira nesse un
 </div>
 <br>  
   
-  
+<h2>_commits</h2>   
 ![Snake animation](https://github.com/cardles/cardles/blob/output/github-contribution-grid-snake.svg) 
