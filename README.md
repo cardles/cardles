@@ -36,5 +36,6 @@ Graduada em Arquitetura e Urbanismo, agora busco construir uma carreira nesse un
 </div>
 <br>  
   
-<h2>_commits</h2>   
+<h2>_commits</h2>
+  
 ![Snake animation](https://github.com/cardles/cardles/blob/output/github-contribution-grid-snake.svg) 
