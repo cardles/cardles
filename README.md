@@ -1,4 +1,4 @@
-![Olá devs, eu sou Cardles, mais conhecida como Letícia Cardoso](https://github.com/cardles/cardles/blob/main/profile_animation.gif)
+![Olá visitantes, eu sou CARDLES, desenvolvedora back-rnd Letícia Cardoso](https://github.com/cardles/cardles/blob/main/profile_animation_2.gif)
 
 <div align="center"> 
   <a href = "mailto:cardles.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
