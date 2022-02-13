@@ -8,8 +8,7 @@
 
 <h2>_sobre mim</h2>
 
-> Sou uma mulher parda vindo de Guarulhos para dar meu “Hello World!” para o universo tech!  
-Graduada em Arquitetura e Urbanismo, agora busco construir uma carreira nesse universo, desejando a chance de aprimorar minhas habilidades e desempenho, me mantendo orientada à resultados e integrada à comunidade. 
+> Sou uma rebelde nata - por isso eu, mulher parda da Grande São Paulo, estou na área _tech_. Minha habilidade analítica e minha visão interdisciplinar me tornam uma _problem solver_, movida à desafios e em prol de uma causa: __emancipar pessoas__.
 <br>
 
 
